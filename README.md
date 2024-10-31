@@ -1,10 +1,5 @@
 # VendaPesca
 
-Abaixo está o modelo de README detalhado e instruções de execução para o projeto de sistema de vendas de produtos em C# seguindo o padrão MVC no Visual Studio 2022.
-
----
-
-# Sistema de Vendas - MVC com C#
 
 Este projeto é um sistema web de vendas de produtos desenvolvido em C# utilizando o padrão arquitetural MVC (Model-View-Controller) no Visual Studio 2022. O sistema permite o cadastro e a gestão de clientes, fornecedores, produtos e vendas.
 
