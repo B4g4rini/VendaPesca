@@ -49,7 +49,7 @@ O projeto está estruturado em camadas seguindo o padrão MVC:
 1. **Clone o Repositório**
    ```bash
    git clone https://github.com/B4g4rini/VendaPesca
-   cd sistema-de-vendas
+   cd vendapesca
    ```
 
 2. **Abra o Projeto no Visual Studio 2022**
