@@ -48,7 +48,7 @@ O projeto está estruturado em camadas seguindo o padrão MVC:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/username/sistema-de-vendas.git
+   git clone https://github.com/B4g4rini/VendaPesca
    cd sistema-de-vendas
    ```
 
